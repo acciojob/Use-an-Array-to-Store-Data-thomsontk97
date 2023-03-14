@@ -1,2 +1,2 @@
 
-var arr=["djakj",132,false,233,3123];
+var yourArray=["djakj",132,false,233,3123];
