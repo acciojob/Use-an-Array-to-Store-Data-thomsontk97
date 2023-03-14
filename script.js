@@ -1,2 +1,2 @@
 
-var yourArray=["djakj",132,false,233,3123];
+let yourArray=["djakj",132,false,233,3123];
